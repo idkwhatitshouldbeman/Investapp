@@ -1,0 +1,7 @@
+# API Keys - Replace with your actual keys
+NEWS_API_KEY=your_news_api_key_here
+OPENROUTER_API_KEY=your_openrouter_api_key_here
+
+# OpenRouter Model Configuration
+# Using Mixtral 8x7B as it's free and provides excellent analysis capabilities
+OPENROUTER_MODEL=meta-llama/llama-2-70b-chat 

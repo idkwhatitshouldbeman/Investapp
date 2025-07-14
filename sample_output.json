@@ -1,0 +1,46 @@
+{
+  "analysis_metadata": {
+    "total_articles": 3,
+    "analysis_date": "2024-01-15T10:30:00.123456",
+    "news_api_requests_used": 1,
+    "model_used": "meta-llama/llama-2-70b-chat"
+  },
+  "articles": [
+    {
+      "headline": "Apple Reports Record Q4 Earnings, Stock Surges 5%",
+      "description": "Apple Inc. reported record-breaking quarterly earnings, beating analyst expectations with strong iPhone sales and services revenue growth.",
+      "url": "https://example.com/apple-earnings-2024",
+      "publishedAt": "2024-01-15T09:00:00Z",
+      "source": "Financial Times",
+      "sentiment": "positive",
+      "affected_stocks": ["AAPL", "GOOGL", "MSFT", "TSLA"],
+      "impact_description": "Apple's strong earnings performance could boost overall tech sector confidence and potentially lift related technology stocks. The positive earnings surprise may indicate strong consumer spending and could benefit other tech companies in the ecosystem.",
+      "confidence": "high",
+      "analysis_timestamp": "2024-01-15T10:30:00.123456"
+    },
+    {
+      "headline": "Federal Reserve Signals Potential Rate Cuts in 2024",
+      "description": "The Federal Reserve indicated possible interest rate reductions in 2024, citing improved inflation data and economic stability concerns.",
+      "url": "https://example.com/fed-rate-cuts-2024",
+      "publishedAt": "2024-01-15T08:30:00Z",
+      "source": "Reuters",
+      "sentiment": "positive",
+      "affected_stocks": ["SPY", "QQQ", "IWM", "XLF"],
+      "impact_description": "Potential Fed rate cuts typically benefit growth stocks and the broader market. Financial stocks may see mixed impacts - banks could face lower net interest margins while fintech companies might benefit from lower borrowing costs.",
+      "confidence": "medium",
+      "analysis_timestamp": "2024-01-15T10:32:15.789012"
+    },
+    {
+      "headline": "Tesla Faces Production Delays Due to Supply Chain Issues",
+      "description": "Tesla Inc. announced production delays for its electric vehicles due to ongoing supply chain disruptions affecting semiconductor availability.",
+      "url": "https://example.com/tesla-production-delays",
+      "publishedAt": "2024-01-15T07:45:00Z",
+      "source": "Bloomberg",
+      "sentiment": "negative",
+      "affected_stocks": ["TSLA", "NIO", "XPEV", "LI"],
+      "impact_description": "Tesla's production delays could negatively impact the company's stock price and potentially affect other EV manufacturers. Supply chain issues may indicate broader challenges in the automotive sector.",
+      "confidence": "high",
+      "analysis_timestamp": "2024-01-15T10:34:30.456789"
+    }
+  ]
+} 
